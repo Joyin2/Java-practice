@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "evenOdd",
+            "request": "launch",
+            "mainClass": "condition.evenOdd",
+            "projectName": "java_6795f89e"
+        },
+        {
+            "type": "java",
+            "name": "adult",
+            "request": "launch",
+            "mainClass": "condition.adult",
+            "projectName": "java_6795f89e"
+        },
+        {
+            "type": "java",
             "name": "sum",
             "request": "launch",
             "mainClass": "sum.sum",
