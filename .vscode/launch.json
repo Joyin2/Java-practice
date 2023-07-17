@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "switchWeek",
+            "request": "launch",
+            "mainClass": "switchCase.switchWeek",
+            "projectName": "java_6795f89e"
+        },
+        {
+            "type": "java",
             "name": "check",
             "request": "launch",
             "mainClass": "condition.check",
