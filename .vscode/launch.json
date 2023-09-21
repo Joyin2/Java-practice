@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "Loops.loops",
+            "projectName": "java_6795f89e"
+        },
+        {
+            "type": "java",
             "name": "switchWeek",
             "request": "launch",
             "mainClass": "switchCase.switchWeek",
